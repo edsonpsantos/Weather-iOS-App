@@ -8,7 +8,7 @@ The repository contains all the code based on an MVVM architecture pattern to or
 ##  🤔 Technologies and Features I will use:
 
 ##App features:
-* String Attribues
+* String Attributes
 * Custom TabBar
 * Customs Arc, Shapes, Deep Blur, Cards, and Navigation Bar
 * Forecast Data
@@ -17,6 +17,7 @@ The repository contains all the code based on an MVVM architecture pattern to or
 ##Technical Features:
 * 100% Swift UI
 * Bottom Sheet (Third Library)
+* Animations
 * Beautiful SwiftUI  
 * MVVM Architecture
 * Good practices ( Save coding -> if let and guard statements to avoid crashes )
