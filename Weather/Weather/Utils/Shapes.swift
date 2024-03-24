@@ -44,3 +44,4 @@ struct Trapezoid: Shape {
         path.closeSubpath()
         return path
     }
+}
