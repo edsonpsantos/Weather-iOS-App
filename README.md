@@ -23,8 +23,7 @@ The repository contains all the code based on an MVVM architecture pattern to or
 * Good practices ( Save coding -> if let and guard statements to avoid crashes )
 
 ##  📱 App screens:
-As soon as possible
-
+As soon as I finish the project
 
 
 🙏🏽 Thanks for your attention! 
