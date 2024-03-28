@@ -12,6 +12,19 @@ struct WeatherView: View {
         ZStack{
             Color.background
                 .ignoresSafeArea()
+            
+            //MARK: Weather Widget
+            ScrollView(showsIndicators: false){
+                VStack(spacing: 20, content: {
+                    ForEach(Forecast.cities){ forecast in
+                        WeatherWidget(forecast: forecast)
+                    }
+                })
+            }
+            .safeAreaInset(edge: .top) {
+                EmptyView()
+                    .frame(height: 120)
+            }
         }
         .overlay{
             NavigationBar()
