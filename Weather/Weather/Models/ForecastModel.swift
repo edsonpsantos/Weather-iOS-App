@@ -8,7 +8,7 @@
 import Foundation
 
 
-enum ForecastPeriodo{
+enum ForecastPeriod{
     case hourly
     case daily
 }
@@ -40,9 +40,9 @@ struct Forecast: Identifiable {
         case .cloudy:
             return "Cloud"
         case .rainy:
-            return "Moon cloud mid rain"
+            return "MoonCloudMidRain"
         case .stormy:
-            return "Sun cloud angled rain"
+            return "SunCloudAngledRain"
         case .sunny:
             return "Sun"
         case .tornado:
