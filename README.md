@@ -28,6 +28,8 @@ The repository contains all the code based on an MVVM architecture pattern to or
 ![Settings Screen](https://github.com/edsonpsantos/images/blob/main/Weather/DetailView.png)
 ![Settings Screen](https://github.com/edsonpsantos/images/blob/main/Weather/SearchView.png)
 
+https://github.com/edsonpsantos/Weather-iOS-App/assets/24628289/dcde85dd-66aa-48d0-91e2-5062f4e13f33
+
 
 
 
