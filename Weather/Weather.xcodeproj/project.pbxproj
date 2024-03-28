@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2D9866432BB58DBA00D99151 /* SegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D9866422BB58DBA00D99151 /* SegmentedControl.swift */; };
+		2D9866452BB593DC00D99151 /* ForecastModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D9866442BB593DC00D99151 /* ForecastModel.swift */; };
 		2DBBBE3F2BB07DA7008A5523 /* WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DBBBE3E2BB07DA7008A5523 /* WeatherApp.swift */; };
 		2DBBBE412BB07DA7008A5523 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DBBBE402BB07DA7008A5523 /* ContentView.swift */; };
 		2DBBBE432BB07DA8008A5523 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DBBBE422BB07DA8008A5523 /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		2D9866422BB58DBA00D99151 /* SegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControl.swift; sourceTree = "<group>"; };
+		2D9866442BB593DC00D99151 /* ForecastModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastModel.swift; sourceTree = "<group>"; };
 		2DBBBE3B2BB07DA7008A5523 /* Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DBBBE3E2BB07DA7008A5523 /* WeatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherApp.swift; sourceTree = "<group>"; };
 		2DBBBE402BB07DA7008A5523 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 		2DBBBE4D2BB08021008A5523 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				2D9866442BB593DC00D99151 /* ForecastModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 				2DBBBE3F2BB07DA7008A5523 /* WeatherApp.swift in Sources */,
 				2DBBBE602BB0A0DA008A5523 /* ForecastView.swift in Sources */,
 				2DBBBE592BB08DDA008A5523 /* TabBar.swift in Sources */,
+				2D9866452BB593DC00D99151 /* ForecastModel.swift in Sources */,
 				2DBBBE5B2BB09184008A5523 /* Shapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
