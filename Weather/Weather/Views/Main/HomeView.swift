@@ -89,7 +89,6 @@ struct HomeView: View {
                         bottomSheetPosition = .top
                     })
                     .offset(y: bottomSheetTranslationProrated * 115)
-
                 }
                 .navigationBarHidden(true)
             }
