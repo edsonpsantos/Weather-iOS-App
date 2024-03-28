@@ -47,7 +47,7 @@ struct WeatherWidget: View {
                     //MARK: Forecast Large Icons
                     Image(forecast.icon)
                         .resizable()
-                        .aspectRatio(contentMode: .fill)
+                        .aspectRatio(contentMode: .fit)
                         .padding(.trailing, 4)
                     
                     //MARK: Weather
