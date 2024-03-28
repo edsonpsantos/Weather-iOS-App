@@ -23,7 +23,12 @@ The repository contains all the code based on an MVVM architecture pattern to or
 * Good practices ( Save coding -> if let and guard statements to avoid crashes )
 
 ##  📱 App screens:
-As soon as I finish the project
+![Settings Screen](https://github.com/edsonpsantos/images/blob/main/Weather/HomeView.png)
+![Settings Screen](https://github.com/edsonpsantos/images/blob/main/Weather/ParalaxView.png)
+![Settings Screen](https://github.com/edsonpsantos/images/blob/main/Weather/DetailView.png)
+![Settings Screen](https://github.com/edsonpsantos/images/blob/main/Weather/SearchView.png)
+
+
 
 
 🙏🏽 Thanks for your attention! 
