@@ -5,7 +5,7 @@ This project is a weather iOS mobile app with scrolling and text animations that
 
 The repository contains all the code based on an MVVM architecture pattern to organize the files and keep the code as efficient as possible.
 
-##  🤔 Technologies and Features I will use:
+##  🤔 Technologies and Features:
 
 ##App features:
 * String Attributes
