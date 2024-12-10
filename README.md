@@ -23,10 +23,10 @@ The repository contains all the code based on an MVVM architecture pattern to or
 * Good practices ( Save coding -> if let and guard statements to avoid crashes )
 
 ##  📱 App screens:
-![Settings Screen](https://github.com/edsonpsantos/images/blob/main/Weather/HomeView.png)
-![Settings Screen](https://github.com/edsonpsantos/images/blob/main/Weather/ParalaxView.png)
-![Settings Screen](https://github.com/edsonpsantos/images/blob/main/Weather/DetailView.png)
-![Settings Screen](https://github.com/edsonpsantos/images/blob/main/Weather/SearchView.png)
+![Settings Screen](https://github.com/edsonpsantos/images/blob/main/ios_images/Weather/HomeView.png)
+![Settings Screen](https://github.com/edsonpsantos/images/blob/main/ios_images/Weather/ParalaxView.png)
+![Settings Screen](https://github.com/edsonpsantos/images/blob/main/ios_images/Weather/DetailView.png)
+![Settings Screen](https://github.com/edsonpsantos/images/blob/main/ios_images/Weather/SearchView.png)
 
 https://github.com/edsonpsantos/Weather-iOS-App/assets/24628289/dcde85dd-66aa-48d0-91e2-5062f4e13f33
 
